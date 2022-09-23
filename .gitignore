@@ -1,0 +1,8 @@
+/src/Regnemaskine.java
+.idea
+*.iml
+target
+temp
+out
+*.class
+gen

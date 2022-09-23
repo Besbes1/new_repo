@@ -1,0 +1,4 @@
+public class øvelse {
+}
+cd git-øvelse1
+
